@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/silicon/.android/build-cache/07300c30bfb59665ff9d12dbb5faa63087c7e626/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/silicon/.android/build-cache/07300c30bfb59665ff9d12dbb5faa63087c7e626/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/silicon/.android/build-cache/07300c30bfb59665ff9d12dbb5faa63087c7e626/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/silicon/.android/build-cache/07300c30bfb59665ff9d12dbb5faa63087c7e626/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

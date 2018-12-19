@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/silicon/.android/build-cache/07300c30bfb59665ff9d12dbb5faa63087c7e626/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/silicon/.android/build-cache/07300c30bfb59665ff9d12dbb5faa63087c7e626/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/silicon/.android/build-cache/07300c30bfb59665ff9d12dbb5faa63087c7e626/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/silicon/.android/build-cache/07300c30bfb59665ff9d12dbb5faa63087c7e626/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/silicon/.android/build-cache/07300c30bfb59665ff9d12dbb5faa63087c7e626/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/silicon/.android/build-cache/07300c30bfb59665ff9d12dbb5faa63087c7e626/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/silicon/.android/build-cache/07300c30bfb59665ff9d12dbb5faa63087c7e626/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/silicon/.android/build-cache/07300c30bfb59665ff9d12dbb5faa63087c7e626/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/silicon/.android/build-cache/07300c30bfb59665ff9d12dbb5faa63087c7e626/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/silicon/.android/build-cache/07300c30bfb59665ff9d12dbb5faa63087c7e626/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/silicon/.android/build-cache/d217adf3cec8208fb24283bcdf171be1d9aa6420/output/res/color-v23/design_tint_password_toggle.xml"
+    }
+]

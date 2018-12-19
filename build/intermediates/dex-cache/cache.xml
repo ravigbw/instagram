@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/silicon/.android/build-cache/07300c30bfb59665ff9d12dbb5faa63087c7e626/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/build/intermediates/pre-dexed/debug/classes_95a365a27c4adecc1638b43c0b896f8b543c8e56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silicon/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_4b8326c967c4f79eb42bddb61ca7ea6a60409c9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silicon/.android/build-cache/65c12098f7c6fa855845f793ecb0811848c0b70e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/build/intermediates/pre-dexed/debug/classes_8ac876a5719e00e0d1e686838ba93ee328d82161.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silicon/.android/build-cache/a05b0954c2f8ec7c6e70aafea10fc0cf0f3a845e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/build/intermediates/pre-dexed/debug/classes_15ba77722136a29dbe1c95bab450df8d2052fb42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silicon/.android/build-cache/ae556d6aaf7d64223e909c4fcc5594a2e70cf02c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/build/intermediates/pre-dexed/debug/classes_31458a6b5dfb9a4d70bab9d5665b1dc1693a05ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silicon/.android/build-cache/0eee19a0ceba47c874ec07d86d0f8085d6b8f33f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14889e022db94047ceadff1cf5e7984139a4eb8e">
+        <dex dex="/Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/build/intermediates/pre-dexed/debug/classes_84142704274c27c91de043cad3f7520227f20fbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silicon/.android/build-cache/402e961b837c22560151e1d6ccdea3cfecf5ac29/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/build/intermediates/pre-dexed/debug/classes_45513213ec9511fdc491d0f8d4e51efa1c2fadb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silicon/.android/build-cache/d217adf3cec8208fb24283bcdf171be1d9aa6420/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/build/intermediates/pre-dexed/debug/classes_802556b21adf05b1a80106ab6e9dc9b91e3ee90c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silicon/.android/build-cache/8e9769bf6f9ee8539deaf01bd0e8bac44c05822f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/build/intermediates/pre-dexed/debug/classes_388bb4e750265185ab778db167d28384ba068b9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silicon/.android/build-cache/351b8e657289894f0d0aab42d02084946753ac02/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/build/intermediates/pre-dexed/debug/classes_7d6c2c23cf4df4559fca1e7ef8a273ccb93961fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silicon/.android/build-cache/e4371850bc08acb5fecf9c5a17a6ea937856301c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/build/intermediates/pre-dexed/debug/classes_daef0a1881538ea951db8ff4ddf7e161e68c03ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silicon/.android/build-cache/4da5572ccc99a4485f97d974b217047983178cee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/build/intermediates/pre-dexed/debug/classes_ed970015f9d289516e87b148cf4770de07f284e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silicon/.android/build-cache/a88b0360c01e945214168763fcd5884a68427345/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/build/intermediates/pre-dexed/debug/classes_3533efee442d0bfc0d3cabee39a397b176d3549b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silicon/.android/build-cache/26353a9d0c0770601c5e8d35dbd79b272443ee85/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/build/intermediates/pre-dexed/debug/classes_9e6db10c0bbbfa4ef44d58dba60d6c15647e08af.jar" />
+    </item>
+
+</items>

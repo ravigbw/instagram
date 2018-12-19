@@ -1,0 +1,100 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/src/main/AndroidManifest.xml:3:11-51
+		INJECTED from /Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:design:25.3.1] /Users/silicon/.android/build-cache/d217adf3cec8208fb24283bcdf171be1d9aa6420/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/silicon/.android/build-cache/07300c30bfb59665ff9d12dbb5faa63087c7e626/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/silicon/.android/build-cache/65c12098f7c6fa855845f793ecb0811848c0b70e/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/silicon/.android/build-cache/a05b0954c2f8ec7c6e70aafea10fc0cf0f3a845e/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/silicon/.android/build-cache/4da5572ccc99a4485f97d974b217047983178cee/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/silicon/.android/build-cache/26353a9d0c0770601c5e8d35dbd79b272443ee85/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/silicon/.android/build-cache/8e9769bf6f9ee8539deaf01bd0e8bac44c05822f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/silicon/.android/build-cache/a88b0360c01e945214168763fcd5884a68427345/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/silicon/.android/build-cache/402e961b837c22560151e1d6ccdea3cfecf5ac29/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/silicon/.android/build-cache/e4371850bc08acb5fecf9c5a17a6ea937856301c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/silicon/.android/build-cache/351b8e657289894f0d0aab42d02084946753ac02/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.mwajeeh.animations.MainActivity
+ADDED from /Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/src/main/AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from /Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/src/main/AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from /Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.mwajeeh.animations.DetailActivity
+ADDED from /Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/src/main/AndroidManifest.xml:19:9-21:61
+	android:theme
+		ADDED from /Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/src/main/AndroidManifest.xml:21:13-59
+	android:name
+		ADDED from /Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/src/main/AndroidManifest.xml:20:13-43
+uses-sdk
+INJECTED from /Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] /Users/silicon/.android/build-cache/d217adf3cec8208fb24283bcdf171be1d9aa6420/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/silicon/.android/build-cache/07300c30bfb59665ff9d12dbb5faa63087c7e626/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/silicon/.android/build-cache/65c12098f7c6fa855845f793ecb0811848c0b70e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/silicon/.android/build-cache/a05b0954c2f8ec7c6e70aafea10fc0cf0f3a845e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/silicon/.android/build-cache/4da5572ccc99a4485f97d974b217047983178cee/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/silicon/.android/build-cache/26353a9d0c0770601c5e8d35dbd79b272443ee85/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/silicon/.android/build-cache/8e9769bf6f9ee8539deaf01bd0e8bac44c05822f/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/silicon/.android/build-cache/a88b0360c01e945214168763fcd5884a68427345/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/silicon/.android/build-cache/402e961b837c22560151e1d6ccdea3cfecf5ac29/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/silicon/.android/build-cache/ae556d6aaf7d64223e909c4fcc5594a2e70cf02c/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/silicon/.android/build-cache/e4371850bc08acb5fecf9c5a17a6ea937856301c/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/silicon/.android/build-cache/351b8e657289894f0d0aab42d02084946753ac02/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.github.JakeWharton:ViewPagerIndicator:2.4.1] /Users/silicon/.android/build-cache/0eee19a0ceba47c874ec07d86d0f8085d6b8f33f/output/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/silicon/.android/build-cache/d217adf3cec8208fb24283bcdf171be1d9aa6420/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/silicon/Downloads/workspace/AnimationsPlayground-master/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/silicon/.android/build-cache/d217adf3cec8208fb24283bcdf171be1d9aa6420/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/silicon/.android/build-cache/07300c30bfb59665ff9d12dbb5faa63087c7e626/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/silicon/.android/build-cache/65c12098f7c6fa855845f793ecb0811848c0b70e/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/silicon/.android/build-cache/a05b0954c2f8ec7c6e70aafea10fc0cf0f3a845e/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/silicon/.android/build-cache/4da5572ccc99a4485f97d974b217047983178cee/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/silicon/.android/build-cache/26353a9d0c0770601c5e8d35dbd79b272443ee85/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/silicon/.android/build-cache/8e9769bf6f9ee8539deaf01bd0e8bac44c05822f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/silicon/.android/build-cache/a88b0360c01e945214168763fcd5884a68427345/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/silicon/.android/build-cache/402e961b837c22560151e1d6ccdea3cfecf5ac29/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/silicon/.android/build-cache/ae556d6aaf7d64223e909c4fcc5594a2e70cf02c/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/silicon/.android/build-cache/e4371850bc08acb5fecf9c5a17a6ea937856301c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/silicon/.android/build-cache/351b8e657289894f0d0aab42d02084946753ac02/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/silicon/.android/build-cache/d217adf3cec8208fb24283bcdf171be1d9aa6420/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/silicon/.android/build-cache/d217adf3cec8208fb24283bcdf171be1d9aa6420/output/AndroidManifest.xml:26:9-47
